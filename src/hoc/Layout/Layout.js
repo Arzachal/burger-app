@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 
-import Legio from '../../hoc/Legio';
-import Toolbar from '../Navigation/Toolbar/Toolbar';
-import SideDrawer from '../Navigation/SideDrawer/SideDrawer';
+import Legio from '../Legio/Legio';
+import Toolbar from '../../components/Navigation/Toolbar/Toolbar';
+import SideDrawer from '../../components/Navigation/SideDrawer/SideDrawer';
 import classes from './Layout.css';
 
 class Layout extends Component {
